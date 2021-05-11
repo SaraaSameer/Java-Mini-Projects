@@ -20,7 +20,7 @@ import javax.swing.JPanel;
 import javax.swing.border.TitledBorder;
 import javax.swing.JSplitPane;
 
-public class FinalCart01 {
+public class FinalCart01{
 
 	private JFrame frame;
 	private JTextField textField;
